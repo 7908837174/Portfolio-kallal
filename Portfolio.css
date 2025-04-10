@@ -1,4 +1,4 @@
- 
+  
 * {
   margin: 0;
   padding: 0;
@@ -290,4 +290,15 @@ nav ul li a:hover {
   #contact h2 {
     font-size: 2rem;
   }
+}
+
+.highlight {
+  color: #ffcc00; 
+  font-weight: bold;
+}
+
+.highlight-background {
+  background-color: #f0f0f0;  
+  padding: 2px 4px;
+  border-radius: 4px;
 }
